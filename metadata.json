@@ -1,0 +1,6 @@
+{
+  "name": "Digit-Al-i",
+  "description": "Teaching Assistant bot for POLS 4710 / INST 4990 'The Arab Spring and Its Aftermaths' at the University of Wyoming, designed by Dr. Ali H. Raddaoui.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
